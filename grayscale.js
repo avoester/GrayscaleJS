@@ -8,7 +8,7 @@
 					'<feColorMatrix type=\'matrix\' '+
 					'values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 '+
 					'0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/>'+
-					'</filter></svg>#grayscale");',
+					'</filter></svg>#grayscale")',
 				"filter": "gray",
 				"-webkit-filter": "grayscale(100%)",
 				"-webkit-backface-visibility": "hidden"
